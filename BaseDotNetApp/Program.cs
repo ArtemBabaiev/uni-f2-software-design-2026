@@ -1,6 +1,7 @@
 ﻿using BaseDotNetApp.Lecture10;
 using BaseDotNetApp.Lecture11;
 using BaseDotNetApp.Lecture12;
+using BaseDotNetApp.Lecture13_2;
 using BaseDotNetApp.Lecture8;
 using BaseDotNetApp.Lecture9;
 
@@ -38,3 +39,6 @@ Console.WriteLine("Hello, World!");
 // Reflections.Exec();
 // DynamicReflections.Exec();
 // AtttributeEngine.Exec();
+
+// Lecture 13
+DIP.Exec();

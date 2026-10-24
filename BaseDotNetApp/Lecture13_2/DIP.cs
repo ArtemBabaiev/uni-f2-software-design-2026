@@ -4,9 +4,12 @@ using System;
 
 namespace BaseDotNetApp.Lecture13_2;
 
-public class DIP
+public static class DIP
 {
-    
+    public static void Exec()
+    {
+        Bootstrapper.Run();
+    }
 }
 
 public static class Bootstrapper
